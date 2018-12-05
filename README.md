@@ -12,3 +12,8 @@ Original Image of ice hockey:
 The art image I have used to transform the original image is:
 
 ![Art Image](art_wallpaper.jpg)
+
+The transformed image is:
+
+![Deep Art Image](deepart_image.png)
+
